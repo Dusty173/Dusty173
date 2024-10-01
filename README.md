@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Dustin!
 - 👀 I’m interested in programming, applying knowledge, helping others.
-- 🌱 I’m currently learning All about coding, databases, algorithms and data structures through Gonzaga's Full Stack SWE Bootcamp
+- 🌱 I'm always learning, and have completed Gonzga's Software Engineering Bootcamp (10 month duration)
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me ...Coming Soon...
-- ⚡ Fun fact: I like cars too, have been an Autmotive Technician for ~7 years.
+- 📫 How to reach me dustincheyney@gmail.com
+- ⚡ Fun fact: I like cars too, have been an Autmotive Technician for ~8 years.
 
 <!---
 Dusty173/Dusty173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
